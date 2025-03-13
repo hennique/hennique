@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hennique
 - 👀 I’m interested in games, music, anime and learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on almost anything
 
 <!---
